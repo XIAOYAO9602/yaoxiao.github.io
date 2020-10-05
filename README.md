@@ -17,6 +17,7 @@ Used Programming lanaguage: Java Script, CSS, HTML.
 It was an aswsome experience building this homepage, and finally have my own personal homepage. 
 
 This web consists of 3 parts, about me,education and project. 
+
 Homepage---main page
 I used gardient background so that when you scroll down, the color changes.
 ![image](https://github.com/XIAOYAO9602/yaoxiao.github.io/blob/main/%20screenshot/screenshot1.jpg)
