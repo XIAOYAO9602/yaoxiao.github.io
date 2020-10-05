@@ -9,7 +9,9 @@ Author:Yao Xiao
 URL to class:https://johnguerra.co/classes/webDevelopment_fall_2020/
 
 Objective: Building a personal web page showing personal inforamtion such as education experience, contact information, social media, and picture of me as well.
+
 Used technologies:sublime text, estlint and JS prettier. 
+
 Used Programming lanaguage: Java Script, CSS, HTML.
 
 It was an aswsome experience building this homepage, and finally have my own personal homepage. 
