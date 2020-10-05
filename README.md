@@ -10,4 +10,5 @@ Objective: Building a personal web page showing personal inforamtion such as edu
 
 This web consists of 3 parts, about me,education and project. 
 
-This is the homepage,
+This is the homepage
+![image](https://github.com/XIAOYAO9602/yaoxiao.github.io/blob/main/%20screenshot/screenshot1.jpg)
