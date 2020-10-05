@@ -2,7 +2,7 @@
 
 personal Website :sunflower:
 
-Project 1 for CS5610 Web Development at northeastern university 
+Project 1 for CS5610 Web Development at Northeastern University 
 Author:Yao Xiao
 URL to class:https://johnguerra.co/classes/webDevelopment_fall_2020/
 
