@@ -1,6 +1,6 @@
 # yaoxiao.github.io
 
-personal Website :sunflower:
+Personal Website :sunflower:
 
 Project 1 for CS5610 Web Development at Northeastern University 
 
