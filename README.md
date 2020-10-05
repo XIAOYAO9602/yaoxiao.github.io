@@ -29,3 +29,18 @@ In education part, I used grid in bootstrap to organize my education experience.
 
 Portfolio---posting the projects I have done.
 ![image](https://github.com/XIAOYAO9602/yaoxiao.github.io/blob/main/%20screenshot/screenshot5.jpg)
+
+----------------------------------------------
+Instruction to build:
+
+1. Clone the repository
+
+2. Open terminal on Mac or Command on Windows
+
+3. Install node, and then install npm and live-server
+
+4. cd the file and start local server
+
+5. go to http://localhost:8080 
+
+
