@@ -12,7 +12,7 @@ Objective: Building a personal web page showing personal inforamtion such as edu
 
 Used technologies:sublime text, estlint and JS prettier. 
 
-Used Programming lanaguage: Java Script, CSS, HTML.
+Used programming lanaguage: Java Script, CSS, HTML.
 
 It was an aswsome experience building this homepage, and finally have my own personal homepage. 
 
