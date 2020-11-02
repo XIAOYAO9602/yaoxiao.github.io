@@ -41,6 +41,5 @@ Instruction to build:
 
 4. cd the file and start local server
 
-5. go to http://localhost:8080 
-
+5. go to http://localhost:3001  clap
 
