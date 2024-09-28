@@ -1,3 +1,6 @@
+<!-- Comments for Readme from Michelle Duan: your readme is well written. I think it might be helpful to have bold fonts for 
+the name of sections so that viewers can find it’s even easier to read.
+-->
 # yaoxiao.github.io
 
 Personal Website :sunflower:
